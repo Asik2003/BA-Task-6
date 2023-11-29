@@ -1,0 +1,101 @@
+,Rank,Name,Country,Sales(Billion $),Profit(Billion $),Assets(Billion $),Market Value(Billion $)
+0,1,ICBC,China,190.5,45.8,4914.7,249.5
+1,2,JPMorgan Chase,United States,136.2,40.4,3689.3,464.8
+2,3,Berkshire Hathaway,United States,245.5,42.5,873.7,624.4
+3,4,China Construction Bank,China,173.5,39.3,4301.7,210.4
+4,5,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,229.7,49.3,510.3,1897.2
+5,6,Apple,United States,294.0,63.9,354.1,2252.3
+6,6,Bank of America,United States,98.8,17.9,2832.2,336.3
+7,6,Ping An Insurance Group,China,169.1,20.8,1453.8,211.2
+8,9,Agricultural Bank of China,China,153.9,31.3,4159.9,140.1
+9,10,Amazon,United States,386.1,21.3,321.2,1711.8
+10,11,Samsung Electronics,South Korea,200.7,22.1,348.2,510.5
+11,12,Toyota Motor,Japan,249.4,14.3,561.9,219.2
+12,13,Alphabet,United States,182.4,40.3,319.6,1538.9
+13,14,Bank of China,China,134.0,27.9,3731.4,116.7
+14,15,Microsoft,United States,153.3,51.3,304.1,1966.6
+15,16,Citigroup,United States,84.4,17.1,2314.3,151.2
+16,17,Volkswagen Group,Germany,254.1,9.5,646.4,147.2
+17,18,Walmart,United States,559.2,13.5,252.5,396.1
+18,19,Wells Fargo,United States,85.9,7.4,1959.5,181.5
+19,20,Verizon Communications,United States,128.3,17.8,316.5,241.3
+20,21,UnitedHealth Group,United States,262.9,16.9,205.2,369.6
+21,22,China Merchants Bank,China,60.4,14.1,1278.5,192.8
+22,23,Alibaba Group,China,93.8,23.3,250.1,657.5
+23,24,Allianz,Germany,129.9,7.8,1357.5,108.0
+24,25,Comcast,United States,103.6,10.5,273.9,252.4
+25,26,Goldman Sachs Group,United States,61.8,15.1,1302.0,116.5
+26,27,Softbank,Japan,70.3,14.9,366.7,163.1
+27,28,Postal Savings Bank Of China (PSBC),China,67.2,9.3,1736.2,112.4
+28,29,Tencent Holdings,China,70.0,23.3,203.9,773.8
+29,30,BNP Paribas,France,102.7,7.6,3044.8,79.1
+30,31,Morgan Stanley,United States,56.7,13.4,1158.8,123.9
+31,32,China Mobile,Hong Kong,111.3,15.6,264.2,134.9
+32,33,Facebook,United States,86.0,29.1,159.3,870.5
+33,34,Johnson & Johnson,United States,82.6,14.7,174.9,427.1
+34,35,Sony,Japan,79.9,10.1,250.7,137.3
+35,36,Intel,United States,77.9,20.9,153.1,263.7
+36,37,CVS Health,United States,268.7,7.2,238.5,99.6
+37,38,RBC,Canada,42.9,8.8,1308.2,135.0
+38,39,Nestlé,Switzerland,89.9,13.0,140.3,333.2
+39,40,HSBC Holdings,United Kingdom,60.6,4.0,2984.2,120.3
+40,41,Daimler,Germany,175.9,4.1,349.6,99.2
+41,42,TD Bank Group,Canada,38.8,9.1,1358.6,120.6
+42,43,Nippon Telegraph & Tel,Japan,110.3,8.3,231.1,96.7
+43,44,Deutsche Telekom,Germany,115.1,4.7,345.4,91.6
+44,45,General Electric,United States,79.9,5.6,255.1,117.6
+45,46,Procter & Gamble,United States,74.0,13.8,120.1,338.0
+46,47,General Motors,United States,122.5,6.4,235.2,84.6
+47,48,Sinopec,China,271.1,4.8,265.1,82.6
+48,49,China Life Insurance,China,113.8,7.3,651.9,57.3
+49,50,Industrial Bank,China,53.8,9.7,1207.2,66.5
+50,51,Sberbank,Russia,47.3,10.4,486.9,85.7
+51,52,Mitsubishi UFJ Financial,Japan,56.0,5.2,3406.5,69.7
+52,53,Cigna,United States,160.6,8.5,151.5,87.7
+53,54,AXA Group,France,129.5,3.4,951.5,67.8
+54,55,AIA Group,Hong Kong,42.6,5.8,321.6,153.7
+55,55,Reliance Industries,India,61.2,5.7,166.3,164.9
+56,57,Bank of Communications,China,67.6,11.1,1635.8,47.9
+57,58,Pfizer,United States,47.6,9.6,154.2,215.2
+58,59,IBM,United States,73.6,5.6,156.0,119.4
+59,60,Roche Holding,Switzerland,62.1,15.2,97.4,287.1
+60,61,BMW Group,Germany,112.8,4.3,282.0,69.8
+61,62,MetLife,United States,67.8,5.4,795.1,55.8
+62,63,PetroChina,China,280.7,2.9,380.5,66.7
+63,64,LVMH Moët Hennessy Louis Vuitton,France,50.9,5.4,133.0,380.3
+64,65,Novartis,Switzerland,48.6,8.1,132.2,198.6
+65,66,Taiwan Semiconductor,Taiwan,48.1,18.7,98.3,558.1
+66,67,Home Depot,United States,132.1,12.9,70.6,352.8
+67,68,Shanghai Pudong Development,China,52.3,8.5,1215.7,47.4
+68,68,Siemens,Germany,58.0,4.9,148.6,139.8
+69,70,PepsiCo,United States,71.3,7.5,91.2,199.2
+70,71,Oracle,United States,39.7,12.8,118.1,227.7
+71,72,Sanofi,France,41.1,14.0,140.1,127.4
+72,73,Enel,Italy,71.4,3.0,200.0,105.4
+73,74,AbbVie,United States,45.8,4.6,150.6,190.4
+74,75,Cisco Systems,United States,48.0,10.1,95.6,222.9
+75,75,Zurich Insurance Group,Switzerland,58.4,3.8,413.8,61.7
+76,77,Bank of Nova Scotia,Canada,30.7,5.1,911.2,75.3
+77,78,Commonwealth Bank,Australia,22.4,5.7,816.2,120.7
+78,79,BHP Group,Australia,46.1,6.9,103.2,186.1
+79,79,UBS,Switzerland,32.2,6.5,1125.8,57.3
+80,81,British American Tobacco,United States,33.1,8.2,188.2,91.6
+81,82,Honda Motor,Japan,121.8,3.9,201.3,52.8
+82,82,Intesa Sanpaolo,Italy,45.8,3.7,1226.7,53.3
+83,84,Merck & Co.,United States,47.8,7.1,91.6,196.0
+84,85,Sumitomo Mitsui Financial,Japan,38.6,4.9,2256.8,48.9
+85,86,Rio Tinto,Australia,44.5,9.7,97.4,135.3
+86,87,Japan Post Holdings,Japan,106.6,4.2,2879.0,34.8
+87,88,US Bancorp,United States,23.1,6.1,553.4,86.9
+88,89,Anthem,United States,121.9,4.6,88.3,92.0
+89,90,Charter Communications,United States,48.1,3.2,146.1,124.8
+90,90,Unilever,United Kingdom,57.8,6.3,82.8,151.1
+91,92,Dell Technologies,United States,94.3,3.3,123.4,77.4
+92,93,Manulife,Canada,57.2,4.4,655.0,41.9
+93,94,Hon Hai Precision,Taiwan,182.0,3.5,130.8,60.4
+94,95,American Express,United States,38.2,3.1,191.4,120.5
+95,96,China Vanke,China,62.6,6.1,285.8,42.2
+96,97,GlaxoSmithKline,United Kingdom,43.7,7.4,109.9,92.9
+97,98,Truist Financial,United States,24.3,4.9,517.5,77.8
+98,99,Rosneft,Russia,70.8,2.0,207.5,77.7
+99,100,China State Construction Engineering,China,215.3,6.1,323.0,33.0
